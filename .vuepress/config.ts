@@ -8,9 +8,9 @@ export default defineUserConfig({
   theme: recoTheme({
     style: '@vuepress-reco/style-default',
     catalogTitle: '拥抱变化 拥抱未来',
-    logo: '/firepng.png',
+    logo: '/firegif.gif',
     author: 'Martin',
-    authorAvatar: '/firepng.png',
+    authorAvatar: '/firegif.gif',
     docsRepo: 'https://github.com/yuyanteng',
     docsBranch: 'main',
     docsDir: 'example',

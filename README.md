@@ -1,7 +1,8 @@
 ---
 home: true
 modules:
-  - BannerBrand
+  - Banner
+  # - BannerBrand
   - Blog
   - MdContent
   - Footer
@@ -12,22 +13,22 @@ banner:
   heroImageStyle:
     maxWidth: 200px
     margin: 0 auto 2rem
-  bgImage: /firegif.gif
+  bgImage: /bg.svg
   bgImageStyle:
-    height: 450px
-bannerBrand:
-  heroText: Martin的早晨
-  tagline: 生鱼忧患 死鱼安乐
-  heroImage: /firegif.gif
-  heroImageStyle:
-    maxWidth: '200px'
-    width: '100%'
-    display: block
-    margin: '0 auto 2rem'
-    borderRadius: '1rem'
-  bgImage: '/firegif.gif'
-  bgImageStyle:
-    height: 450px
+    height: 800px
+# bannerBrand:
+#   heroText: Martin的早晨
+#   tagline: 生鱼忧患 死鱼安乐
+#   heroImage: /firegif.gif
+#   heroImageStyle:
+#     maxWidth: '200px'
+#     width: '100%'
+#     display: block
+#     margin: '2rem auto 2rem'
+#     borderRadius: '1rem'
+#   bgImage: '/firegif.gif'
+#   bgImageStyle:
+#     height: 450px
 blog:
   socialLinks:
       - { icon: 'BrandGithub', link: 'https://github.com/yuyanteng' }
