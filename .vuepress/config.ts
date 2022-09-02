@@ -1,5 +1,5 @@
 import { defineUserConfig } from 'vuepress'
-import type { DefaultThemeOptions } from 'vuepress'
+// import type { DefaultThemeOptions } from 'vuepress'
 import recoTheme from 'vuepress-theme-reco'
 
 export default defineUserConfig({
@@ -56,7 +56,7 @@ export default defineUserConfig({
       ],
       '/docs/miniProgram/': [
         {
-          text: '小程序的快乐',
+          text: '小程序',
           children: ['miniRoad']
         }
       ],
@@ -69,6 +69,12 @@ export default defineUserConfig({
           text: '装载知识',
           children: ['node']
         }
+      ],
+      '/docs/informalEssay/essay-road': [
+        {
+          text: '工作',
+          children: ['essay-road']
+        },
       ]
     },
     navbar:
@@ -87,6 +93,7 @@ export default defineUserConfig({
           //   { text: 'vuepress-theme-reco', link: '/blogs/other/guide' }
           // ]
         },
+        { text: '工作and生活', link: '/docs/informalEssay/essay-road' },
         { text: 'Github', link: 'https://github.com/yuyanteng' },
       ],
     bulletin: {

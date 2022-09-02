@@ -2,9 +2,9 @@
 title: 手写代码
 date: 2022/08/17
 tags:
- - base
+ - javascript
 categories:
- - base
+ - 基础
 ---
 
 ## 一、JavaScript 基础

@@ -7,6 +7,8 @@ categories:
 -  React
 ---
 
+<!-- more -->
+
 # redux的认识及使用
 
 ## 学习目标

@@ -2,9 +2,9 @@
 title: ES7-ES12的知识点
 date: 2022/08/17
 tags:
- - base
+ - JavaScript
 categories:
- - base
+ - 基础
 ---
 
 # ES7-ES12的知识点

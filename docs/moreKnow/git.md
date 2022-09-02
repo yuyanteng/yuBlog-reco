@@ -4,9 +4,10 @@ date: 2022/08/17
 tags:
  - moreKonw
 categories:
- - other
+ - 百家齐放
 ---
 
+<!-- more -->
 
 # git 的基础使用命令
 
