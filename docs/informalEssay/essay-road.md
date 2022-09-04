@@ -4,8 +4,9 @@ date: 2022/09/03
 tags:
  - 随笔
 ---
-<img src="../../.vuepress/dist/road.jpeg" alt="image-20220904234423300" style="width: 75%;" />
 <!-- more -->
+
+<img src="../../.vuepress/public/road.png" alt="image-20220904234423300" style="width: 75%;" />
 
 ### 卷与卷与卷
 
