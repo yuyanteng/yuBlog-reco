@@ -31,7 +31,7 @@ export default defineUserConfig({
       '/docs/base/': [
         {
           text: '敲门的前端',
-          children: ['webRoad', 'ES7-ES12-Knowledge']
+          children: ['arrayMethods', 'ES7-ES12-Knowledge']
         },
         {
           text: '进击的前端',
@@ -70,17 +70,17 @@ export default defineUserConfig({
           children: ['node']
         }
       ],
-      '/docs/informalEssay/essay-road': [
+      '/docs/informalEssay/': [
         {
           text: '工作',
-          children: ['essay-road']
+          children: ['webRoad', 'essay-road']
         },
       ]
     },
     navbar:
       [
         { text: '我的概述', link: '/' },
-        { text: '前端基础', link: '/docs/base/webRoad' },
+        { text: '前端基础', link: '/docs/base/arrayMethods' },
         // { text: '前端基础', link: '/categories/base' },
         { text: 'React', link: '/docs/react/reactRoad' },
         { text: 'Vue', link: '/docs/vue/vueRoad' },
@@ -93,7 +93,7 @@ export default defineUserConfig({
           //   { text: 'vuepress-theme-reco', link: '/blogs/other/guide' }
           // ]
         },
-        { text: '工作and生活', link: '/docs/informalEssay/essay-road' },
+        { text: '工作and生活', link: '/docs/informalEssay/webRoad' },
         { text: 'Github', link: 'https://github.com/yuyanteng' },
       ],
     bulletin: {
