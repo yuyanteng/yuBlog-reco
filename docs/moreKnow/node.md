@@ -6,7 +6,7 @@ tags:
 categories:
  - 百家齐放
 ---
-
+<img src="../../.vuepress/public/node.jpeg" alt="image-20220904234423300" style="width: 75%;" />
 <!-- more -->
 
 # 1.node概述

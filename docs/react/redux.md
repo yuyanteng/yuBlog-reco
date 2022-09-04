@@ -6,7 +6,7 @@ tags:
 categories:
 -  React
 ---
-
+<img src="../../.vuepress/public/redux.jpeg" alt="image-20220904234423300" style="width: 75%;" />
 <!-- more -->
 
 # redux的认识及使用

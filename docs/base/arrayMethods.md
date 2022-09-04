@@ -27,9 +27,9 @@ reverse : 反转 (将数组进行倒序)
 
 splice ：删除元素或者添加元素，如：splice('从哪里','删几位','添加的元素')
 
-## 二、会改变原有数组
+## 二、不会改变原有数组
 
-<img src="../../.vuepress/public/array.png" alt="image-20220904234423300" style="zoom:50%;" />
+<img src="../../.vuepress/public/array.png" alt="image-20220904234423300" style="zoom:20%;" />
 
 ### （1）对数组进行遍历
 
