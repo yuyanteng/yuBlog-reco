@@ -41,7 +41,7 @@ export default defineUserConfig({
       '/docs/react/': [
         {
           text: 'React基础',
-          children: ['reactRoad']
+          children: ['reactRoad', 'reactLifeCycle16']
         },
         {
           text: 'React必备',
