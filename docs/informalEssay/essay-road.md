@@ -20,7 +20,7 @@ tags:
 
 熟悉的人离职了几个，工作上也变得没有那么生动起来。
 
-<font color="#A98175" size="5">生动的人还有很多，不生动的事情也更多了起来。</font>
+<div style="color: #A98175; font-size: 18px; font-weight: 600;">生动的人还有很多，不生动的事情也更多了起来。</div>
 
 ### <table><tr><td bgcolor="#eaf3d4">我和我离职的同事们</td></tr></table>
 
@@ -44,8 +44,7 @@ tags:
 
 现在的我，交付价值还有，需求还需要做，所以还可以留下，但保不齐某一天一样走人。
 
-<font color="#A98175" size="5">做好充足的准备才是最好的准备。</font>
-
+<div style="color: #A98175; font-size: 18px; font-weight: 600;">做好充足的准备才是最好的准备。</div>
 
 ### <table><tr><td bgcolor="#eaf3d4">我在dj电商</td></tr></table>
 
