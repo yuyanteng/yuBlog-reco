@@ -35,13 +35,14 @@ blog:
 isShowTitleInHome: true
 actionText: About
 actionLink: /views/other/about
-features:
-- title: 过去
-  details: 从无到有，从新出发。
-- title: 当下
-  details: 从新人到菜鸟，从开始到入门。
-- title: 未来
-  details: 从入门到开始，从有到无。
+# features:
+# - title: 过去
+#   details: 从无到有，从新出发。
+# - title: 当下
+#   details: 从新人到菜鸟，从开始到入门。
+# - title: 未来
+#   details: 从入门到开始，从有到无。
+
 # footer: # 底部模块的配置
 #   record: 域名备案文案-还没有
 #   recordLink: 域名备案地址-还没有

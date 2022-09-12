@@ -63,7 +63,7 @@ export default defineUserConfig({
       '/docs/moreKnow/': [
         {
           text: '必备知识',
-          children: ['moreKnow', 'git', 'webpack']
+          children: ['moreKnow', 'git', 'webpack', 'render']
         },
         {
           text: '装载知识',
